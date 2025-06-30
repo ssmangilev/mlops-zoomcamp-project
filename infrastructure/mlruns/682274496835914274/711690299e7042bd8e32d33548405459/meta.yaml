@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anberlin/courses/mlops-zoomcamp-homeworks/project/infrastructure/mlruns/682274496835914274/711690299e7042bd8e32d33548405459/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '682274496835914274'
+lifecycle_stage: active
+run_id: 711690299e7042bd8e32d33548405459
+run_name: linear_regression
+run_uuid: 711690299e7042bd8e32d33548405459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748666971044
+status: 1
+tags: []
+user_id: anberlin

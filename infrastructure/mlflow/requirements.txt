@@ -1,0 +1,4 @@
+mlflow
+mlflow[auth]
+psycopg2-binary
+boto3
